@@ -5,5 +5,5 @@ title: Bootstrap
 
 ## Bootstrap
 
-mount /dev/$LV /mnt   
-pacstrap base linux-lts linux-firmware grub efi-bootmgr nvim
+mount /dev/$PART /mnt   
+pacstrap base linux-lts linux-firmware grub efi-bootmgr nvim network-manager
