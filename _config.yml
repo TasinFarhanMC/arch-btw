@@ -1,3 +1,4 @@
 domain: tasinfarhanmc.github.io
 url: https://tasinfarhanmc.github.io
 baseurl: /arch-btw
+theme: jekyll-theme-midnight
