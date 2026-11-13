@@ -6,5 +6,5 @@ title: Installation
 # Installation 
 Divided are the steps
 
-1. [Disk and Partitioning]({% link arch-btw/install/disk.md %})
-2. [Bootstrap]({% link arch-btw/install/bootstrap.md %})
+1. [Disk and Partitioning]({% link install/disk.md %})
+2. [Bootstrap]({% link install/bootstrap.md %})
